@@ -20,4 +20,4 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 Users should be able to:
 
 - View the optimal layout for the site
-- See hover states for all interactive elements
+- See hover states for all interactive elements on the page
