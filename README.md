@@ -18,3 +18,5 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ### The challenge
 
 Users should be able to:
+
+- View the optimal layout for the site
