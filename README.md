@@ -22,3 +22,5 @@ Users should be able to:
 - View the optimal layout for the site
 - See hover states for all interactive elements on the page
 - view slide animations on the page
+
+### Screenshot
