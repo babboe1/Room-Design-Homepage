@@ -25,4 +25,4 @@ Users should be able to:
 
 ### Screenshot
 
-Below is a preview of the Room Design
+Below is a preview of the Room Design Homepage
