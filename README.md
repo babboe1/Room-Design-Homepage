@@ -24,3 +24,5 @@ Users should be able to:
 - view slide animations on the page
 
 ### Screenshot
+
+Below is a preview
