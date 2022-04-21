@@ -32,4 +32,4 @@ Below is a preview of the Room Design Homepage challenge by Frontend Mentor <br 
 
 
 - Solution URL: [Challenge Solution Page]()
-- Live Site URL:
+- Live Site URL: [Loopstudios Landing Page]
