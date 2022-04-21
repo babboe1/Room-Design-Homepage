@@ -31,4 +31,4 @@ Below is a preview of the Room Design Homepage challenge by Frontend Mentor <br 
 ### Links
 
 
-- Solution URL: !{}
+- Solution URL: [Challenge Solution Page]
