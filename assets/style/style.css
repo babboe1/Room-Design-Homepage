@@ -12,6 +12,12 @@ html {
    margin: 0;
 	padding: 0;
 }
+
+/* modals */
+.hidden {
+   display: none;
+	pointer-events: none;
+}
 .attribution a {
 	color: hsl(228, 45%, 44%);
 }
