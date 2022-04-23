@@ -1,1 +1,37 @@
-# Room-Design-Homepage
+# Room-Design-Homepage - Frontend mentor
+This is a solution to the []().
+Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Continued development](#continued-development)
+- [Author](#author)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the site
+- See hover states for all interactive elements on the page
+- view slide animations on the page
+
+### Screenshot
+
+Below is a preview of the Room Design Homepage challenge by Frontend Mentor <br />
+![screenshot](./assets/image/Preview.jpg?raw=true "Preview Image")
+
+### Links
+
+
+- Solution URL: [Challenge Solution Page]()
+- Live Site URL: [Room Design Home Page]()
+
+## My process
