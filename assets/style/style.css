@@ -8,6 +8,10 @@
 	padding: 0;
 	margin: 0;
 }
+html {
+   margin: 0;
+	padding: 0;
+}
 .attribution a {
 	color: hsl(228, 45%, 44%);
 }
