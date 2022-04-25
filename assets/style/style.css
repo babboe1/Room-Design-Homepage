@@ -12,7 +12,9 @@ html {
    margin: 0;
 	padding: 0;
 }
+#body-content {
 
+}
 /* modals */
 .hidden {
    display: none;
