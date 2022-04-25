@@ -54,6 +54,10 @@ html {
    display: block;
    animation: fade-slide-in 0.8s ease-out forwards;
 }
+
+/* modals */
+
+
 .attribution a {
    color: hsl(228, 45%, 44%);
 }
