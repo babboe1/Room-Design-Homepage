@@ -13,7 +13,7 @@ html {
 	padding: 0;
 }
 #body-content {
-
+   max-width: 1440px;
 }
 /* modals */
 .hidden {
