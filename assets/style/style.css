@@ -15,6 +15,10 @@ html {
 #body-content {
    max-width: 1440px;
 }
+ul {
+   list-style: none;
+   display:L flex
+}
 /* modals */
 .hidden {
    display: none;
