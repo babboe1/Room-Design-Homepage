@@ -13,11 +13,18 @@ html {
 	padding: 0;
 }
 #body-content {
+   border: 1px solid red;
+   margin: auto;
    max-width: 1440px;
 }
 ul {
    list-style: none;
    display:L flex
+}
+.ImageSize {
+	width: 100%;
+	height: auto;
+	max-width: fit-content;
 }
 /* modals */
 .hidden {
@@ -67,5 +74,37 @@ ul {
 .attribution a {
    color: hsl(228, 45%, 44%);
 }
-
+#header {
+   justify-content: start;
+   display: flex;
+   width: 100%;
+   flex-direction: row-reverse;
+   position: absolute;
+   padding: 2rem 1rem;
+}
+.ImgLogo {
+   transform: translateX(calc(-50% - 20px));
+   left: 50%;
+   position: relative;
+}
+#nav {
+   display: flex;
+}
+section{
+   display: flex;
+   flex-direction: column;
+}
+.NavArrow {
+   transform: translate(-100%, -105%);
+   background: black;
+   position: relative;
+   display: flex;
+   left: 100%;
+   top: 100%;
+   max-width: 127px;
+}
+.NavArrowIcon {
+   padding: 1.2rem 1.5rem;
+   /* border: 1px solid white; */
+}
 
