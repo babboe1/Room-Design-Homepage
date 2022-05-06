@@ -13,6 +13,8 @@ html {
 	padding: 0;
 }
 #body-content {
+   font-size: 14px;
+   font-family:'Poppins', sans-serif;
 	border: 1px solid red;
 	margin: auto;
 	max-width: 1440px;
