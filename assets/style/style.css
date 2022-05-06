@@ -13,9 +13,9 @@ html {
 	padding: 0;
 }
 #body-content {
-   border: 1px solid red;
-   margin: auto;
-   max-width: 1440px;
+	border: 1px solid red;
+	margin: auto;
+	max-width: 1440px;
 }
 ul {
    list-style: none;
