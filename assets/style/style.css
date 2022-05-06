@@ -34,8 +34,8 @@ ul {
 	pointer-events: none;
 }
 .StopScroll {
-   height: 100vh;
-   overflow: hidden;
+	height: 100vh;
+	overflow: hidden;
 }
 #backdrop {
 	position: fixed;
