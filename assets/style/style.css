@@ -28,7 +28,7 @@ ul {
 }
 /* modals */
 .hidden {
-   display: none;
+	display: none;
 	pointer-events: none;
 }
 .StopScroll {
