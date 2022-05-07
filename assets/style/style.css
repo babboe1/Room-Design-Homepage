@@ -49,8 +49,8 @@ ul {
 	display: none;
 }
 #backdrop.visible {
-   display: block;
-   pointer-events: all;
+	display: block;
+	pointer-events: all;
 }
 .Modal {
 	position: absolute;
