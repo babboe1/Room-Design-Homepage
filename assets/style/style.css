@@ -76,12 +76,12 @@ ul {
 	color: hsl(228, 45%, 44%);
 }
 #header {
-   justify-content: start;
-   display: flex;
-   width: 100%;
-   flex-direction: row-reverse;
-   position: absolute;
-   padding: 2rem 1rem;
+	justify-content: start;
+	display: flex;
+	width: 100%;
+	flex-direction: row-reverse;
+	position: absolute;
+	padding: 2rem 1rem;
 }
 .ImgLogo {
    transform: translateX(calc(-50% - 20px));
