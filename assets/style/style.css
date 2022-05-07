@@ -84,9 +84,9 @@ ul {
 	padding: 2rem 1rem;
 }
 .ImgLogo {
-   transform: translateX(calc(-50% - 20px));
-   left: 50%;
-   position: relative;
+	transform: translateX(calc(-50% - 20px));
+	left: 50%;
+	position: relative;
 }
 #nav {
    display: flex;
