@@ -96,13 +96,13 @@ section {
 	flex-direction: column;
 }
 .NavArrow {
-   transform: translate(-100%, -105%);
-   background: black;
-   position: relative;
-   display: flex;
-   left: 100%;
-   top: 100%;
-   max-width: 127px;
+	transform: translate(-100%, -110%);
+	background: black;
+	position: relative;
+	display: flex;
+	left: 100%;
+	top: 100%;
+	max-width: 127px;
 }
 .NavArrowIcon {
    padding: 1.2rem 1.5rem;
