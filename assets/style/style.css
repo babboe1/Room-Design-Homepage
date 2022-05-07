@@ -91,9 +91,9 @@ ul {
 #nav {
 	display: flex;
 }
-section{
-   display: flex;
-   flex-direction: column;
+section {
+	display: flex;
+	flex-direction: column;
 }
 .NavArrow {
    transform: translate(-100%, -105%);
