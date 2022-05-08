@@ -124,6 +124,9 @@ p {
    font-size: .8rem;
    font-weight: bold;
 }
+.ImageContent {
+   width: 100%;
+}
 .attribution a {
 	color: hsl(228, 45%, 44%);
 }
