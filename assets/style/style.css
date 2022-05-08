@@ -130,6 +130,9 @@ p {
 .QualityContent2 {
    padding: 4rem 2rem;
 }
+.header2 {
+   letter-spacing: .25rem;
+}
 .attribution a {
 	color: hsl(228, 45%, 44%);
 }
