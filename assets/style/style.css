@@ -108,4 +108,6 @@ section {
 	padding: 1.2rem 1.5rem;
 	/* border: 1px solid white; */
 }
-
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
