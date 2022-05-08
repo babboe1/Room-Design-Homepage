@@ -140,5 +140,7 @@ p {
    .NavArrow {
       max-width: 155px;
    }
-  
+   .NavArrowIcon {
+      padding: 1.2rem 2rem;
+   }
 }
