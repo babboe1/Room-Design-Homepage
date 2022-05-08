@@ -108,6 +108,9 @@ section {
 	padding: 1.2rem 1.5rem;
 	/* border: 1px solid white; */
 }
+.QualityContent {
+   padding: 0 2rem  5rem;
+}
 .attribution a {
 	color: hsl(228, 45%, 44%);
 }
