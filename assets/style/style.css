@@ -119,6 +119,11 @@ p {
    padding: 1.5rem 0;
    color: hsl(0, 0%, 63%);
 }
+.SpanText {
+   letter-spacing: .8rem;
+   font-size: .8rem;
+   font-weight: bold;
+}
 .attribution a {
 	color: hsl(228, 45%, 44%);
 }
