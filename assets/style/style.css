@@ -111,6 +111,10 @@ section {
 .QualityContent {
    padding: 0 2rem  5rem;
 }
+#header-1 {
+   font-size: 2rem;
+   line-height: 2rem;
+}
 .attribution a {
 	color: hsl(228, 45%, 44%);
 }
