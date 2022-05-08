@@ -115,6 +115,10 @@ section {
    font-size: 2rem;
    line-height: 2rem;
 }
+p {
+   padding: 1.5rem 0;
+   color: hsl(0, 0%, 63%);
+}
 .attribution a {
 	color: hsl(228, 45%, 44%);
 }
