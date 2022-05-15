@@ -27,7 +27,7 @@ html {
    font-family:'Poppins', sans-serif;
 	border: 1px solid red;
 	margin: auto;
-	max-width: 1440px;
+   width: 100%;
 }
 ul {
 	list-style: none;
