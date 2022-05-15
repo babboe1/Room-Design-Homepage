@@ -23,6 +23,7 @@ html {
 }
 #body-content {
    font-size: 14px;
+   background-color: white;
    font-family:'Poppins', sans-serif;
 	border: 1px solid red;
 	margin: auto;
