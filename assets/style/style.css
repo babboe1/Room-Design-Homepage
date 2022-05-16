@@ -147,6 +147,10 @@ p {
 .header2 {
    letter-spacing: .25rem;
 }
+.attribution {
+   font-size: 11px;
+   text-align: center;
+}
 .attribution a {
 	color: blue;
 }
