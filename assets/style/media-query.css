@@ -3,3 +3,14 @@
       padding: 24rem 0 0;
    }
 }
+@media screen and (min-width:480px) {
+   .HeroImage {
+      padding: 25rem 0 0;
+   }
+   .NavArrow {
+      max-width: 155px;
+   }
+   .NavArrowIcon {
+      padding: 1.2rem 2rem;
+   }
+}
