@@ -148,7 +148,7 @@ p {
    letter-spacing: .25rem;
 }
 .attribution a {
-	color: hsl(228, 45%, 44%);
+	color: blue;
 }
 @media screen and (min-width:480px) {
    .NavArrow {
