@@ -99,6 +99,9 @@ ul {
 #nav {
 	display: flex;
 }
+.NavList {
+   display: none;
+}
 section {
 	display: flex;
 	flex-direction: column;
