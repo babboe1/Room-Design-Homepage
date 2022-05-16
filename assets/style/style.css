@@ -150,17 +150,8 @@ p {
 .attribution a {
 	color: blue;
 }
-@media screen and (min-width:480px) {
-   .NavArrow {
-      max-width: 155px;
-   }
-   .NavArrowIcon {
-      padding: 1.2rem 2rem;
-   }
-}
-@media screen and (min-width:768px){
-
-   
+#footer {
+   background: #e5e5e5;
 }
 
 
