@@ -19,11 +19,11 @@
       padding: 32rem 0 0;
    }
 }
-@media screen and (min-width:768px) {
-   .HeroImage {
-      padding: 26rem 0 0;
-      animation: fade-slide 1s alternate-reverse infinite;
-   }
+@media screen and (min-width: 768px) {
+	.HeroImage {
+		padding: 26rem 0 0;
+		animation: fade-slide 1s alternate-reverse infinite;
+	}
 	@keyframes fade-slide {
 		0% {
 			background: url(../images/desktop/desktop-image-hero-1.jpg);
