@@ -16,10 +16,10 @@ html {
 #body-content {
    font-size: 14px;
    background-color: white;
-   font-family:'Poppins', sans-serif;
-   margin: auto;
-   width: 100%;
-   max-width: 1600px;
+	font-family: 'Poppins', sans-serif;
+	margin: auto;
+	width: 100%;
+	max-width: 1600px;
 }
 ul {
 	list-style: none;
