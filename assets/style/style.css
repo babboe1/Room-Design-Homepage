@@ -139,9 +139,21 @@ section {
 .QualityContent .NavArrow {
 	display: none;
 }
-#header-1 {
-   font-size: 2rem;
-   line-height: 2rem;
+.container {
+   position: relative;
+   transition: 1s;
+   top: 0rem;
+}
+.ContainerText {
+   padding: 0 0 5rem;
+   opacity: 0;
+}
+.opacity {
+   opacity: 1;
+}
+.header-2 {
+	font-size: 2rem;
+	line-height: 2rem;
 }
 p {
    padding: 1.5rem 0;
