@@ -80,5 +80,8 @@
    .Width-100 {
       width: 100%;
    }
+   .ImageContent {
+      height: 100%;
+   }
 
 }
