@@ -48,5 +48,8 @@
       margin-top: -6px;
       z-index: 20;
    }
+   .section1 .NavArrow {
+      display : none;
+   }
 
 }
