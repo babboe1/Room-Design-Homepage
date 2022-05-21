@@ -43,5 +43,10 @@
       justify-content:end;
       overflow-x: hidden;
    }
+   .section2 {
+      flex-direction: row;
+      margin-top: -6px;
+      z-index: 20;
+   }
 
 }
