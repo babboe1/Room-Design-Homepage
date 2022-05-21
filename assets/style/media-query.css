@@ -2,6 +2,9 @@
 	.HeroImage {
 		padding: 24rem 0 0;
 	}
+   .QualityContent {
+      max-height: 25rem;
+   }
 }
 @media screen and (min-width: 480px) {
 	.HeroImage {
