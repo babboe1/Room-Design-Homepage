@@ -104,5 +104,12 @@
       flex-direction: column;
       justify-content: center;
    }
+   .QualityContent .NavArrow {
+      display: flex;
+      transform: translateY(-10%);
+      left: 0;
+      top: -4rem;
+      max-width: 143px;
+   }
 
 }
