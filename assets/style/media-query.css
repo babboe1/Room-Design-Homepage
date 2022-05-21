@@ -38,5 +38,10 @@
    .MenuBtn {
       display: none;
    }
+   .section1 {
+      flex-direction: row;
+      justify-content:end;
+      overflow-x: hidden;
+   }
 
 }
