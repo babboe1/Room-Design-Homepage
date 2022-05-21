@@ -51,5 +51,15 @@
    .section1 .NavArrow {
       display : none;
    }
+   .HeroImage {
+      background: none !important;
+      display: flex;
+      position: relative;
+      left: 44.5rem;
+      width: auto;
+      transition: 1s;
+      overflow-x: visible;
+      padding: 0;
+   }
 
 }
