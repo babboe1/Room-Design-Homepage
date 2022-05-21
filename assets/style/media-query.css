@@ -99,5 +99,10 @@
    .container {
       top: 18rem;
    }
+   .QualityContent2 {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+   }
 
 }
