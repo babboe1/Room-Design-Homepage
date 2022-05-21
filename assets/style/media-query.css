@@ -77,5 +77,8 @@
       display: block;
       width: 580px;
    }
+   .Width-100 {
+      width: 100%;
+   }
 
 }
