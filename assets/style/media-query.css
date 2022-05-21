@@ -73,5 +73,9 @@
       left: -27.6rem;
       transition: 1s;
    }
+   .PictureClass {
+      display: block;
+      width: 580px;
+   }
 
 }
