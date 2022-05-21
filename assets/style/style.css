@@ -160,9 +160,9 @@ p {
 	color: hsl(0, 0%, 63%);
 }
 .SpanText {
-   letter-spacing: .8rem;
-   font-size: .8rem;
-   font-weight: bold;
+	letter-spacing: 0.8rem;
+	font-size: 0.8rem;
+	font-weight: bold;
 }
 .ImageContent {
    width: 100%;
