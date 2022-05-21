@@ -137,7 +137,7 @@ section {
    overflow-y: hidden;
 }
 .QualityContent .NavArrow {
-   display: none;
+	display: none;
 }
 #header-1 {
    font-size: 2rem;
