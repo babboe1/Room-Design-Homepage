@@ -98,6 +98,27 @@ section {
 	display: flex;
 	flex-direction: column;
 }
+.section1 {
+	overflow-x: hidden;
+   /* margin-bottom: 10rem; */
+}
+.HeroImage {
+	width: 100%;
+	padding: 18rem 0 0;
+	animation: fade-slide 1s forwards;
+}
+
+
+.PictureClass {
+	display: none;
+	width: 425px;
+}
+.Width-100 {
+	width: 100%;
+}
+.Desktop {
+	display: none;
+}
 .NavArrow {
 	transform: translate(-100%, -110%);
 	background: black;
