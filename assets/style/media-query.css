@@ -152,5 +152,8 @@
       color: white;
       font-size: 12px;
    }
-
+   .header2 {
+      letter-spacing: .2rem;
+      font-size: 14px;
+   }
 }
