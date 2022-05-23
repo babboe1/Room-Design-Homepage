@@ -128,5 +128,9 @@
    .ImageBox {
       width: 30%;
    }
+   .QualityContent2 {
+      width: 40%;
+      padding: 0 2rem;
+   }
 
 }
