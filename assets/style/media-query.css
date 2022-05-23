@@ -177,5 +177,8 @@
    .QualityContent .NavArrowIcon {
       padding: 1rem 1.5rem;
    }
+   .HeroImage {
+      left: 65rem;
+   }
    
 }
