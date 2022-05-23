@@ -161,5 +161,9 @@
    #body-content {
       max-width: 1200px;
    }
+   #header-1 {
+      font-size: 2rem;
+      line-height: 2.5rem;
+   }
    
 }
