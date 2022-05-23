@@ -165,5 +165,10 @@
       font-size: 2rem;
       line-height: 2.5rem;
    }
+   .QualityContent {
+      max-width: 480px;
+      max-height: 477px;
+      padding: 3rem 0 0;
+   }
    
 }
