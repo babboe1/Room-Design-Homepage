@@ -146,5 +146,11 @@
       position:unset;
       transform: translate(0, 2px)
    }
+   .NavList {
+      display: flex;
+      column-gap: 2rem;
+      color: white;
+      font-size: 12px;
+   }
 
 }
