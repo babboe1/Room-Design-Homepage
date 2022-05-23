@@ -180,5 +180,8 @@
    .HeroImage {
       left: 65rem;
    }
+   .PictureClass {
+      width: 750px;
+   }
    
 }
