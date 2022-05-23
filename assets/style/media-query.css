@@ -142,5 +142,9 @@
       max-width:613px;
       z-index: 10;
    }
+   .ImgLogo {
+      position:unset;
+      transform: translate(0, 2px)
+   }
 
 }
