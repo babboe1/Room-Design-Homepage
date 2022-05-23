@@ -174,5 +174,8 @@
       max-width: 120px;
       top: -3rem;
    }
+   .QualityContent .NavArrowIcon {
+      padding: 1rem 1.5rem;
+   }
    
 }
