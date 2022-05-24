@@ -187,5 +187,9 @@
       left: 65rem;
       transition: 1s;
    }
+   .HeroImage.Slide2{
+      left: 18.9rem;
+      transition: 1s;
+   }
    
 }
