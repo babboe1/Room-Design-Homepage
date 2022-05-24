@@ -183,5 +183,9 @@
    .PictureClass {
       width: 750px;
    }
+   .HeroImage.Slide1{
+      left: 65rem;
+      transition: 1s;
+   }
    
 }
