@@ -198,5 +198,7 @@
    .ShopNow {
       padding: 2rem 0 0;
    }
-   
+   .container {
+      top: 21rem;
+   }
 }
