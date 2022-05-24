@@ -202,3 +202,7 @@
       top: 21rem;
    }
 }
+@media screen and (min-width:1440px) {
+   #body-content {
+      max-width: 1440px;
+   }
