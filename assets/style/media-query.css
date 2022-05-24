@@ -210,3 +210,7 @@
       top: 23rem;
       padding: 0 7rem;
    }
+   .container p {
+      padding: 2rem 0;
+      line-height: 1.3rem;
+   }
