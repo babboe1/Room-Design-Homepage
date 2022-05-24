@@ -206,3 +206,7 @@
    #body-content {
       max-width: 1440px;
    }
+   .container {
+      top: 23rem;
+      padding: 0 7rem;
+   }
