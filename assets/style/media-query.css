@@ -214,3 +214,8 @@
       padding: 2rem 0;
       line-height: 1.3rem;
    }
+   .QualityContent {
+      max-width: 600px;
+      max-height: 534px;
+      padding: 3rem 0 0;
+   }
