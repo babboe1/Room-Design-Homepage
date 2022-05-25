@@ -268,4 +268,8 @@
       max-height: 588px;
       padding: 3rem 0 0;
    }
+   .QualityContent .NavArrow {
+      top: -5rem;
+      max-width: 196px;
+   }
   
