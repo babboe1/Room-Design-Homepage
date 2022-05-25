@@ -263,4 +263,9 @@
    p {
       font-size: 14px;
    }
+   .QualityContent {
+      max-width: 675px;
+      max-height: 588px;
+      padding: 3rem 0 0;
+   }
   
