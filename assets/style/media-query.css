@@ -31,15 +31,15 @@
 		animation: fade-slide 1s forwards;
 	}
 }
-@media screen and (min-width:1024px){
-   #body-content {
-      max-width: 1024px;
-   }
-   .MenuBtn {
-      display: none;
-   }
-   .section1 {
-      flex-direction: row;
+@media screen and (min-width: 1024px) {
+	#body-content {
+		max-width: 1024px;
+	}
+	.MenuBtn {
+		display: none;
+	}
+	.section1 {
+		flex-direction: row;
       justify-content:end;
       overflow-x: hidden;
    }
