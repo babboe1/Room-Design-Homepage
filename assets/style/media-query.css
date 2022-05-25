@@ -65,10 +65,10 @@
 		left: 44.5rem;
 		transition: 1s;
 	}
-   .HeroImage.Slide2{
-      left: 8.5rem;
-      transition: 1s;
-   }
+	.HeroImage.Slide2 {
+		left: 8.5rem;
+		transition: 1s;
+	}
 	.HeroImage.Slide3 {
 		left: -27.6rem;
 		transition: 1s;
@@ -84,201 +84,201 @@
 		height: 100%;
 	}
 	.QualityContent {
-      width:100%;
-      max-width: 450px;
-      height: 100%;
-      max-height: 370px;
-      padding: 2.1rem 0 0;
-      display: flex;
-      position: absolute;
-      flex-direction: column;
-      justify-content: space-between;
-      z-index: 10;
-      background-color:white;
-   }
-   .container {
-      top: 18rem;
-   }
-   .QualityContent2 {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-   }
-   .QualityContent .NavArrow {
-      display: flex;
-      transform: translateY(-10%);
-      left: 0;
-      top: -4rem;
-      max-width: 143px;
-   }
-   .QualityContent .NavArrowIcon {
-      padding: 1.5rem 1.8rem;
-   }
-   .container {
-      height: 100%;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      padding: 0 4rem;
-   }
-   #header-1 {
-      font-size: 1.5rem;
-      line-height: 2rem;
-   }
-   .ImageBox {
-      width: 30%;
-   }
-   .QualityContent2 {
-      width: 40%;
-      padding: 0 2rem;
-   }
-   p {
-      padding: 1rem 0;
-      font-size: 12px;
-   }
-   #header{ 
-      flex-direction: row;
-      column-gap: 4rem;
-      max-width:613px;
-      z-index: 10;
-   }
-   .ImgLogo {
-      position:unset;
-      transform: translate(0, 2px)
-   }
-   .NavList {
-      display: flex;
-      column-gap: 2rem;
-      color: white;
-      font-size: 12px;
-   }
-   .header2 {
-      letter-spacing: .2rem;
-      font-size: 14px;
-   }
+		width: 100%;
+		max-width: 450px;
+		height: 100%;
+		max-height: 370px;
+		padding: 2.1rem 0 0;
+		display: flex;
+		position: absolute;
+		flex-direction: column;
+		justify-content: space-between;
+		z-index: 10;
+		background-color: white;
+	}
+	.container {
+		top: 18rem;
+	}
+	.QualityContent2 {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+	.QualityContent .NavArrow {
+		display: flex;
+		transform: translateY(-10%);
+		left: 0;
+		top: -4rem;
+		max-width: 143px;
+	}
+	.QualityContent .NavArrowIcon {
+		padding: 1.5rem 1.8rem;
+	}
+	.container {
+		height: 100%;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		padding: 0 4rem;
+	}
+	#header-1 {
+		font-size: 1.5rem;
+		line-height: 2rem;
+	}
+	.ImageBox {
+		width: 30%;
+	}
+	.QualityContent2 {
+		width: 40%;
+		padding: 0 2rem;
+	}
+	p {
+		padding: 1rem 0;
+		font-size: 12px;
+	}
+	#header {
+		flex-direction: row;
+		column-gap: 4rem;
+		max-width: 613px;
+		z-index: 10;
+	}
+	.ImgLogo {
+		position: unset;
+		transform: translate(0, 2px);
+	}
+	.NavList {
+		display: flex;
+		column-gap: 2rem;
+		color: white;
+		font-size: 12px;
+	}
+	.header2 {
+		letter-spacing: 0.2rem;
+		font-size: 14px;
+	}
 }
 @media screen and (min-width: 1200px) {
-   #body-content {
-      max-width: 1200px;
-   }
-   #header-1 {
-      font-size: 2rem;
-      line-height: 2.5rem;
-   }
-   .QualityContent {
-      max-width: 480px;
-      max-height: 477px;
-      padding: 3rem 0 0;
-   }
-   .QualityContent .NavArrow {
-      max-width: 120px;
-      top: -3rem;
-   }
-   .QualityContent .NavArrowIcon {
-      padding: 1rem 1.5rem;
-   }
-   .HeroImage {
-      left: 65rem;
-   }
-   .PictureClass {
-      width: 750px;
-   }
-   .HeroImage.Slide1{
-      left: 65rem;
-      transition: 1s;
-   }
-   .HeroImage.Slide2{
-      left: 18.9rem;
-      transition: 1s;
-   }
-   .HeroImage.Slide3{
-      left: -28rem;
-      transition: 1s;
-   }
-   .ShopNow {
-      padding: 2rem 0 0;
-   }
-   .container {
-      top: 21rem;
-   }
+	#body-content {
+		max-width: 1200px;
+	}
+	#header-1 {
+		font-size: 2rem;
+		line-height: 2.5rem;
+	}
+	.QualityContent {
+		max-width: 480px;
+		max-height: 477px;
+		padding: 3rem 0 0;
+	}
+	.QualityContent .NavArrow {
+		max-width: 120px;
+		top: -3rem;
+	}
+	.QualityContent .NavArrowIcon {
+		padding: 1rem 1.5rem;
+	}
+	.HeroImage {
+		left: 65rem;
+	}
+	.PictureClass {
+		width: 750px;
+	}
+	.HeroImage.Slide1 {
+		left: 65rem;
+		transition: 1s;
+	}
+	.HeroImage.Slide2 {
+		left: 18.9rem;
+		transition: 1s;
+	}
+	.HeroImage.Slide3 {
+		left: -28rem;
+		transition: 1s;
+	}
+	.ShopNow {
+		padding: 2rem 0 0;
+	}
+	.container {
+		top: 21rem;
+	}
 }
-@media screen and (min-width:1440px) {
-   #body-content {
-      max-width: 1440px;
-   }
-   .container {
-      top: 23rem;
-      padding: 0 7rem;
-   }
-   .container p {
-      padding: 2rem 0;
-      line-height: 1.3rem;
-   }
-   .QualityContent {
-      max-width: 600px;
-      max-height: 534px;
-      padding: 3rem 0 0;
-   }
-   .QualityContent .NavArrow {
-      top: -4rem;
-      max-width: 167px;
-   }
-   .QualityContent .NavArrowIcon {
-      padding: 1.5rem 2.2rem;
-   }
-   .QualityContent2 {
-      padding: 0 3rem;
-   }
-   .HeroImage {
-      left: 67.6rem;
-   }
-   .PictureClass {
-      width: 840px;
-   }
-   .HeroImage.Slide1{
-      left: 67.6rem;
-      transition: 1s;
-   }
-   .HeroImage.Slide2{
-      left: 15.1rem;
-      transition: 1s;
-   }
-   .HeroImage.Slide3{
-      left: -37.4rem;
-      transition: 1s;
-   }
+@media screen and (min-width: 1440px) {
+	#body-content {
+		max-width: 1440px;
+	}
+	.container {
+		top: 23rem;
+		padding: 0 7rem;
+	}
+	.container p {
+		padding: 2rem 0;
+		line-height: 1.3rem;
+	}
+	.QualityContent {
+		max-width: 600px;
+		max-height: 534px;
+		padding: 3rem 0 0;
+	}
+	.QualityContent .NavArrow {
+		top: -4rem;
+		max-width: 167px;
+	}
+	.QualityContent .NavArrowIcon {
+		padding: 1.5rem 2.2rem;
+	}
+	.QualityContent2 {
+		padding: 0 3rem;
+	}
+	.HeroImage {
+		left: 67.6rem;
+	}
+	.PictureClass {
+		width: 840px;
+	}
+	.HeroImage.Slide1 {
+		left: 67.6rem;
+		transition: 1s;
+	}
+	.HeroImage.Slide2 {
+		left: 15.1rem;
+		transition: 1s;
+	}
+	.HeroImage.Slide3 {
+		left: -37.4rem;
+		transition: 1s;
+	}
 }
-@media screen and (min-width:1600px) {
-   #body-content {
-      max-width: 1600px;
-   }
-   #header-1 {
-      font-size: 2.9rem;
-      line-height: 3.2rem;
-   }
-   .header2 {
-      letter-spacing: .2rem;
-      font-size: 20px;
-   }
-   p {
-      font-size: 14px;
-   }
-   .QualityContent {
-      max-width: 675px;
-      max-height: 588px;
-      padding: 3rem 0 0;
-   }
-   .QualityContent .NavArrow {
-      top: -5rem;
-      max-width: 196px;
-   }
-   .QualityContent .NavArrowIcon {
-      padding: 2rem 2.6rem;
-   }
-   .HeroImage {
-      left: 73.6rem;
-   }
-   .PictureClass {
-      width: 925px;
-   }
+@media screen and (min-width: 1600px) {
+	#body-content {
+		max-width: 1600px;
+	}
+	#header-1 {
+		font-size: 2.9rem;
+		line-height: 3.2rem;
+	}
+	.header2 {
+		letter-spacing: 0.2rem;
+		font-size: 20px;
+	}
+	p {
+		font-size: 14px;
+	}
+	.QualityContent {
+		max-width: 675px;
+		max-height: 588px;
+		padding: 3rem 0 0;
+	}
+	.QualityContent .NavArrow {
+		top: -5rem;
+		max-width: 196px;
+	}
+	.QualityContent .NavArrowIcon {
+		padding: 2rem 2.6rem;
+	}
+	.HeroImage {
+		left: 73.6rem;
+	}
+	.PictureClass {
+		width: 925px;
+	}
 }
