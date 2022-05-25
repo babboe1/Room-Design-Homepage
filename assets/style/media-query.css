@@ -247,4 +247,9 @@
       left: -37.4rem;
       transition: 1s;
    }
+}
+@media screen and (min-width:1600px) {
+   #body-content {
+      max-width: 1600px;
+   }
   
