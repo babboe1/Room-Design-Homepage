@@ -69,21 +69,21 @@
       left: 8.5rem;
       transition: 1s;
    }
-   .HeroImage.Slide3{
-      left: -27.6rem;
-      transition: 1s;
-   }
-   .PictureClass {
-      display: block;
-      width: 580px;
-   }
-   .Width-100 {
-      width: 100%;
-   }
-   .ImageContent {
-      height: 100%;
-   }
-   .QualityContent {
+	.HeroImage.Slide3 {
+		left: -27.6rem;
+		transition: 1s;
+	}
+	.PictureClass {
+		display: block;
+		width: 580px;
+	}
+	.Width-100 {
+		width: 100%;
+	}
+	.ImageContent {
+		height: 100%;
+	}
+	.QualityContent {
       width:100%;
       max-width: 450px;
       height: 100%;
