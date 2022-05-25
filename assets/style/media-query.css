@@ -40,15 +40,15 @@
 	}
 	.section1 {
 		flex-direction: row;
-      justify-content:end;
-      overflow-x: hidden;
-   }
-   .section2 {
-      flex-direction: row;
-      margin-top: -6px;
-      z-index: 20;
-   }
-   .section1 .NavArrow {
+		justify-content: end;
+		overflow-x: hidden;
+	}
+	.section2 {
+		flex-direction: row;
+		margin-top: -6px;
+		z-index: 20;
+	}
+	.section1 .NavArrow {
       display : none;
    }
    .HeroImage {
