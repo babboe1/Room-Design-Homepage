@@ -16,4 +16,11 @@
 .fade3-out {
 	animation: fade3-slide-out 2s forwards;
 }
+@keyframes fade-slide {
+	0% {
+		background: url(../images/mobile/mobile-image-hero-1.jpg);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: 26rem 0;
+	}
 
