@@ -38,4 +38,12 @@
 		background-repeat: no-repeat, no-repeat;
 		background-position: 0, 26rem 0;
 	}
+	100% {
+		background: url(../images/mobile/mobile-image-hero-1.jpg),
+			url(../images/mobile/mobile-image-hero-2.jpg);
+		background-size: cover, cover;
+		background-repeat: no-repeat, no-repeat;
+		background-position: -26rem 0, 0 0;
+	}
+}
 
