@@ -10,4 +10,7 @@
 .fade2-out {
 	animation: fade2-slide-out 2s forwards;
 }
+.fade3-in {
+	animation: fade3-slide-in 2s forwards;
+}
 
