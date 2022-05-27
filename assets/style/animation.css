@@ -125,4 +125,9 @@
 		background-repeat: no-repeat, no-repeat;
 		background-position: 26rem 0, 0 0;
 	}
+}
+
+.slide1-up {
+   top: 0rem;
+}
 
