@@ -249,3 +249,15 @@
 			background-position: 45rem 0, 0 0;
 		}
 	}
+}
+
+
+@media screen and (min-width: 510px) {
+	@keyframes fade-slide {
+		0% {
+			background: url(../images/desktop/desktop-image-hero-1.jpg);
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: 57.5rem 0;
+		}
+	
