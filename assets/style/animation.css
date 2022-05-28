@@ -137,3 +137,11 @@
    top: -46rem;
 }
 
+@media screen and (min-width: 425px) {
+	@keyframes fade-slide {
+		0% {
+			background: url(../images/desktop/desktop-image-hero-1.jpg);
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: 48rem 0;
+		
