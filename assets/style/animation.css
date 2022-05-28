@@ -144,4 +144,12 @@
 			background-size: cover;
 			background-repeat: no-repeat;
 			background-position: 48rem 0;
-		
+		}
+		100% {
+			background: url(../images/desktop/desktop-image-hero-1.jpg);
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: 0;
+		}
+	}
+	
