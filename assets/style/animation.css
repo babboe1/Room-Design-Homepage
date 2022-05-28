@@ -160,4 +160,11 @@
 			background-repeat: no-repeat, no-repeat;
 			background-position: 0, 45rem 0;
 		}
-	
+		100% {
+			background: url(../images/desktop/desktop-image-hero-1.jpg),
+				url(../images/desktop/desktop-image-hero-2.jpg);
+			background-size: cover, cover;
+			background-repeat: no-repeat, no-repeat;
+			background-position: -45rem 0, 0 0;
+		}
+	}
