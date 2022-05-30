@@ -250,7 +250,13 @@
 		}
 	}
 }
-
+	.slide2-up {
+		top: -21rem;
+	}
+	.slide3-up {
+		top: -42rem;
+	}
+}
 
 @media screen and (min-width: 510px) {
 	@keyframes fade-slide {
