@@ -128,13 +128,13 @@
 }
 
 .slide1-up {
-   top: 0rem;
+	top: 0rem;
 }
 .slide2-up {
-   top: -23rem;
+	top: -23rem;
 }
 .slide3-up {
-   top: -46rem;
+	top: -48rem;
 }
 
 @media screen and (min-width: 425px) {
