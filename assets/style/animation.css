@@ -249,6 +249,9 @@
 			background-position: 45rem 0, 0 0;
 		}
 	}
+
+	.slide1-up {
+		top: 0rem;
 }
 	.slide2-up {
 		top: -21rem;
