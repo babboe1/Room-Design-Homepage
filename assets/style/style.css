@@ -12,6 +12,8 @@ html {
 	background: #e5e5e5;
 	display: flex;
 	justify-content: center;
+   background: url('../images/Bg-Image.jpg');
+   background-size: cover;
 }
 #body-content {
 	font-size: 14px;
