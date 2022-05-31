@@ -177,6 +177,8 @@ p {
 }
 .header2 {
 	letter-spacing: 0.25rem;
+   animation: move 2s ease-in alternate-reverse infinite;
+   animation-delay: 2s;
 }
 .attribution {
 	font-size: 11px;
