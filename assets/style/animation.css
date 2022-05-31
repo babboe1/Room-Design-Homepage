@@ -2,7 +2,7 @@
 	animation: fade1-slide-in 1s forwards;
 }
 .fade1-out {
-	animation: fade1-slide-out 2s forwards;
+	animation: fade1-slide-out 1s forwards;
 }
 .fade2-in {
 	animation: fade2-slide-in 2s forwards;
