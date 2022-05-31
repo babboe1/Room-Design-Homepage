@@ -95,6 +95,9 @@ ul {
 .NavList {
 	display: none;
 }
+.MenuBtn {
+   z-index: 20;
+}
 section {
 	display: flex;
 	flex-direction: column;
