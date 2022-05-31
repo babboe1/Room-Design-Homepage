@@ -14,7 +14,15 @@
 	animation: fade3-slide-in 1s forwards;
 }
 .fade3-out {
-	animation: fade3-slide-out 2s forwards;
+	animation: fade3-slide-out 1s forwards;
+}
+@keyframes move {
+   0% {
+      transform: translateX(-1rem);
+   }
+   100% {
+      transform: translateX(5rem);
+   }
 }
 @keyframes fade-slide {
 	0% {
