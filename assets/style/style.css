@@ -113,6 +113,17 @@ ul {
 .NavList {
 	display: none;
 }
+.nav-bar__list--after {
+	height: 10px;
+	width: 3.5rem;
+	position: relative;
+	border-bottom: 2px solid white;
+	border-radius: 20px;
+	top: 0.8rem;
+	left: -16rem;
+	transition: 0.5s;
+	display: none;
+}
 .MenuBtn {
    z-index: 20;
 }
