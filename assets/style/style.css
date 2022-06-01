@@ -87,6 +87,10 @@ ul {
 	display: flex;
 }
 
+.MenuOpt .ImgLogo {
+	display: flex;
+	justify-content: center;
+}
 /* modals */
 
 #header {
