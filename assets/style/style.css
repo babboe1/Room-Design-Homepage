@@ -70,7 +70,21 @@ ul {
 }
 .Modal.visible {
 	display: block;
-	animation: fade-slide-in 0.8s ease-out forwards;
+	animation: menu-slide-in 0.8s ease-out forwards;
+}
+
+.Modal.invisible {
+	display: block;
+	animation: menu-slide-out 0.8s ease-out forwards;
+}
+
+.ModalList {
+	color: white;
+	padding: 3.5rem 0 2rem;
+	font-size: 1rem;
+	list-style: none;
+	justify-content: space-between;
+	display: flex;
 }
 
 /* modals */
