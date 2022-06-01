@@ -105,6 +105,7 @@ ul {
 	transform: translateX(calc(-50% - 20px));
 	left: 50%;
 	position: relative;
+	z-index: 20;
 }
 #nav {
 	display: flex;
