@@ -16,6 +16,14 @@
 .fade3-out {
 	animation: fade3-slide-out 1s forwards;
 }
+
+.left1 {
+	width: 2.5rem;
+	left: -15.4rem;
+}
+
+
+
 @keyframes move {
 	0% {
 		transform: translateX(-1rem);
