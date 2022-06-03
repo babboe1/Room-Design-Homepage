@@ -188,7 +188,7 @@ section {
 .header-2 {
 	font-size: 2rem;
 	line-height: 2rem;
-   animation: move 2s ease-in alternate-reverse infinite;
+	animation: move 2s ease-in alternate-reverse infinite;
 }
 p {
 	padding: 1.5rem 0;
