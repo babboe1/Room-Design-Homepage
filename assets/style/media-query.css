@@ -30,6 +30,32 @@
 		padding: 26rem 0 0;
 		animation: fade-slide 1s forwards;
 	}
+	.MenuBtn {
+		display: none;
+	}
+	#header {
+		flex-direction: row;
+		column-gap: 4rem;
+		max-width: 613px;
+		z-index: 10;
+	}
+	.ImgLogo {
+		position: unset;
+		transform: translate(0, 2px);
+	}
+	.NavList {
+		display: flex;
+		column-gap: 2rem;
+		color: white;
+		font-size: 12px;
+	}
+	.header2 {
+		letter-spacing: 0.2rem;
+		font-size: 14px;
+	}
+   .nav-bar__list--after {
+		display: block;
+	}
 }
 @media screen and (min-width: 1024px) {
 	#body-content {
