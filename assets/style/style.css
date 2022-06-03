@@ -141,7 +141,6 @@ section {
 	animation: fade-slide 1s forwards;
 }
 
-
 .PictureClass {
 	display: none;
 	width: 425px;
@@ -220,4 +219,14 @@ p {
 }
 #footer {
 	background: #e5e5e5;
+}
+
+li:hover,
+.ImgLogo:hover,
+.SpanText:hover {
+	cursor: pointer;
+}
+.NavArrowIcon:hover {
+	cursor: pointer;
+	background-color: #2d2d2d;
 }
