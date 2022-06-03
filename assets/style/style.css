@@ -75,7 +75,7 @@ ul {
 
 .Modal.invisible {
 	display: block;
-	animation: menu-slide-out 0.8s ease-out forwards;
+	animation: menu-slide-out 0.5s ease-out forwards;
 }
 
 .ModalList {
