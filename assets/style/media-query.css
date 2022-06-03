@@ -159,26 +159,6 @@
 		padding: 1rem 0;
 		font-size: 12px;
 	}
-	#header {
-		flex-direction: row;
-		column-gap: 4rem;
-		max-width: 613px;
-		z-index: 10;
-	}
-	.ImgLogo {
-		position: unset;
-		transform: translate(0, 2px);
-	}
-	.NavList {
-		display: flex;
-		column-gap: 2rem;
-		color: white;
-		font-size: 12px;
-	}
-	.header2 {
-		letter-spacing: 0.2rem;
-		font-size: 14px;
-	}
 }
 @media screen and (min-width: 1200px) {
 	#body-content {
