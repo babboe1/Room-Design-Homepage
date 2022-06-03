@@ -70,7 +70,7 @@ ul {
 }
 .Modal.invisible.visible {
 	display: block;
-	animation: menu-slide-in 0.8s ease-out forwards;
+	animation: menu-slide-in 0.5s ease-out forwards;
 }
 
 .Modal.invisible {
