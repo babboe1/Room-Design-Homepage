@@ -32,6 +32,11 @@
 	left:  -7.4rem;
 }
 
+.left4 {
+	width: 3rem;
+	left: -3rem;
+}
+
 
 
 @keyframes move {
