@@ -59,6 +59,12 @@
 	}
 }
 
+@keyframes menu-slide-out {
+	0% {
+		opacity: 100%;
+		height: 9rem;
+	}
+
 
 @keyframes move {
 	0% {
