@@ -46,6 +46,14 @@
    }
 }
 
+@keyframes menu-slide-in {
+	0% {
+		opacity: 0;
+		display: block;
+		height: 0;
+		z-index: 100;
+	}
+
 
 @keyframes move {
 	0% {
