@@ -538,4 +538,13 @@
 			background-repeat: no-repeat, no-repeat;
 			background-position: -62rem 0, 0 0;
 		}
+	}
+	@keyframes fade3-slide-in {
+		0% {
+			background: url(../images/desktop/desktop-image-hero-1.jpg),
+				url(../images/desktop/desktop-image-hero-3.jpg);
+			background-size: cover, cover;
+			background-repeat: no-repeat, no-repeat;
+			background-position: 0, -62rem 0;
+		}
 
