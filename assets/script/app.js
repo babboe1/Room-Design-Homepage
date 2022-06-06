@@ -10,4 +10,6 @@ const HERO_IMAGE = document.querySelector('.HeroImage');
 const TEXT_CONTAINER = document.querySelector('.container');
 const LINE = document.querySelector('.nav-bar__list--after');
 const [TEXT_1, TEXT_2, TEXT_3] = document.querySelectorAll('.ContainerText');
+const SLIDE1_UP = 'slide1-up';
+const SLIDE2_UP = 'slide2-up';
 
