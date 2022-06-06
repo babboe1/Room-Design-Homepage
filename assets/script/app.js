@@ -1,4 +1,7 @@
 const BACKDROP = document.getElementById('backdrop');
 const MENU_BTN = document.querySelector('.MenuBtn');
 const [ARROW_MOBILE, ARROW_DESKTOP] = document.querySelectorAll('.NavArrow');
-const ARROW_MOBILE_LEFT = ARROW_MOBILE.firstElementC
+const ARROW_MOBILE_LEFT = ARROW_MOBILE.firstElementChild;
+const ARROW_MOBILE_RIGHT = ARROW_MOBILE.lastElementChild;
+const ARROW_DESKTOP_LEFT = ARROW_DESKTOP.firstElementChild;
+
