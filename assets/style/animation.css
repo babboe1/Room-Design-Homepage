@@ -627,3 +627,7 @@
 		top: -23rem;
 	}
 }
+@media screen and (min-width: 1600px) {
+	.fade1-in-desktop {
+		left: 73.4rem;
+	}
