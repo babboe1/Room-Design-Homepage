@@ -29,7 +29,7 @@
 
 .left3 {
 	width: 2.5rem;
-	left:  -7.4rem;
+	left: -7.4rem;
 }
 
 .left4 {
@@ -38,10 +38,10 @@
 }
 
 @keyframes marque {
-   from {
-      transform:translateX(-40%);
-   }
-   to {
+	from {
+		transform: translateX(-40%);
+	}
+	to {
 		transform: translateX(40%);
 	}
 }
@@ -64,12 +64,12 @@
 		opacity: 100%;
 		height: 9rem;
 	}
-   100% {
-      opacity: 0;
+	100% {
+		opacity: 0;
 		height: auto;
 		height: 0;
 		z-index: -1;
-   }
+	}
 }
 
 @keyframes move {
