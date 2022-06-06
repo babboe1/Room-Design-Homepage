@@ -12,4 +12,6 @@ const LINE = document.querySelector('.nav-bar__list--after');
 const [TEXT_1, TEXT_2, TEXT_3] = document.querySelectorAll('.ContainerText');
 const SLIDE1_UP = 'slide1-up';
 const SLIDE2_UP = 'slide2-up';
+const SLIDE3_UP = 'slide3-up';
+const FADE1_IN = 'fade1-in';
 
