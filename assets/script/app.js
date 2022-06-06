@@ -14,4 +14,6 @@ const SLIDE1_UP = 'slide1-up';
 const SLIDE2_UP = 'slide2-up';
 const SLIDE3_UP = 'slide3-up';
 const FADE1_IN = 'fade1-in';
+const FADE2_IN = 'fade2-in';
+const FADE3_IN = 'fade3-in';
 
