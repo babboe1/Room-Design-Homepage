@@ -35,3 +35,8 @@ const modalDrop = () => {
 	BackDrop();
 	StopScroll();
 };
+
+const backDropHandler = () => {
+	menuBtnHandler();
+};
+
