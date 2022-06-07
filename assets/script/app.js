@@ -26,3 +26,8 @@ const FADE3_IN_DESKTOP = 'fade3-in-desktop';
 const BackDrop = () => {
 	BACKDROP.classList.toggle('visible');
 };
+
+const StopScroll = () => {
+	document.body.classList.toggle('StopScroll');
+};
+
