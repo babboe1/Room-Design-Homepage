@@ -81,5 +81,12 @@ const animateLeftTextFunction = () => {
 		} else if (window.innerWidth > 1023) {
 			animateImageFunction(FADE2_IN_DESKTOP);
 		}
-	} 
+	} else if (TEXT_2.classList.contains('opacity')) {
+		animateOpacityFunction(TEXT_2, TEXT_1, SLIDE1_UP);
+		if (window.innerWidth < 1024) {
+			animateImageFunction(FADE1_IN);
+		} else if (window.innerWidth > 1023) {
+			animateImageFunction(FADE1_IN_DESKTOP);
+		}
+	}
 };
