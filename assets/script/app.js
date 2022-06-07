@@ -67,5 +67,12 @@ const animateImageFunction = (animationName) => {
 };
 
 const animateLeftTextFunction = () => {
-
+	if (TEXT_1.classList.contains('opacity')) {
+		animateOpacityFunction(TEXT_1, TEXT_3, SLIDE3_UP);
+		if (window.innerWidth < 1024) {
+			animateImageFunction(FADE3_IN);
+		} else if (window.innerWidth > 1023) {
+			animateImageFunction(FADE3_IN_DESKTOP);
+		}
+	}
 };
