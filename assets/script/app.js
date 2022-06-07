@@ -54,3 +54,10 @@ const menuBtnHandler = () => {
    
 };
 
+const animateOpacityFunction = (activeText, incomingText, animationName) => {
+	activeText.classList.remove('opacity');
+	TEXT_CONTAINER.className = 'container';
+	incomingText.classList.add('opacity');
+	TEXT_CONTAINER.classList.add(animationName);
+};
+
