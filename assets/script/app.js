@@ -19,3 +19,5 @@ const FADE3_IN = 'fade3-in';
 const FADE1_OUT = 'fade1-out';
 const FADE2_OUT = 'fade2-out';
 const FADE3_OUT = 'fade3-out';
+const FADE1_IN_DESKTOP = 'fade1-in-desktop';
+const FADE2_IN_DESKTOP = 'fade2-in-desktop';
