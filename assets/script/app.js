@@ -16,4 +16,6 @@ const SLIDE3_UP = 'slide3-up';
 const FADE1_IN = 'fade1-in';
 const FADE2_IN = 'fade2-in';
 const FADE3_IN = 'fade3-in';
-
+const FADE1_OUT = 'fade1-out';
+const FADE2_OUT = 'fade2-out';
+const FADE3_OUT = 'fade3-out';
