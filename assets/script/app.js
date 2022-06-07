@@ -61,3 +61,8 @@ const animateOpacityFunction = (activeText, incomingText, animationName) => {
 	TEXT_CONTAINER.classList.add(animationName);
 };
 
+const animateImageFunction = (animationName) => {
+	HERO_IMAGE.className = 'HeroImage';
+	HERO_IMAGE.classList.add(animationName);
+};
+
