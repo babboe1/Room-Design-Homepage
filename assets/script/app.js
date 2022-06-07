@@ -66,3 +66,6 @@ const animateImageFunction = (animationName) => {
 	HERO_IMAGE.classList.add(animationName);
 };
 
+const animateLeftTextFunction = () => {
+
+};
