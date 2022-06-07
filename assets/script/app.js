@@ -45,3 +45,12 @@ const magicLine = (value) => {
 	LINE.classList.add(`${value}`);
 };
 
+const menuBtnHandler = () => {
+	modalDrop();
+	MENU_BTN.firstElementChild.classList.toggle('hidden');
+   MENU_BTN.lastElementChild.classList.toggle('hidden');
+   MENU_MODAL.classList.add('invisible');
+   MENU_MODAL.classList.toggle('visible');
+   
+};
+
