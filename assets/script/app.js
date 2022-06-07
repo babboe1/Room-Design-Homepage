@@ -91,5 +91,10 @@ const animateLeftTextFunction = () => {
 	}
 };
 const animateRightTextFunction = () => {
-	
+	if (TEXT_1.classList.contains('opacity')) {
+		animateOpacityFunction(TEXT_1, TEXT_2, SLIDE2_UP);
+		if (window.innerWidth < 1024) {
+			animateImageFunction(FADE1_OUT);
+		}
+	}
 };
