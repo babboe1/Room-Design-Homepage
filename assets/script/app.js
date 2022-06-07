@@ -22,3 +22,7 @@ const FADE3_OUT = 'fade3-out';
 const FADE1_IN_DESKTOP = 'fade1-in-desktop';
 const FADE2_IN_DESKTOP = 'fade2-in-desktop';
 const FADE3_IN_DESKTOP = 'fade3-in-desktop';
+
+const BackDrop = () => {
+	BACKDROP.classList.toggle('visible');
+};
