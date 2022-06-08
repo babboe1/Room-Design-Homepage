@@ -138,3 +138,4 @@ const arrowDesktopBtnHandler = () => {
 	};
 };
 
+BACKDROP.addEventListener('click', backDropHandler);
