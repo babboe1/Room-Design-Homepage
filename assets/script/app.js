@@ -143,3 +143,4 @@ MENU_BTN.addEventListener('click', menuBtnHandler);
 ARROW_MOBILE_LEFT.addEventListener('click', arrowMobileBtnHandler);
 ARROW_MOBILE_RIGHT.addEventListener('click', arrowMobileBtnHandler);
 ARROW_DESKTOP_LEFT.addEventListener('click', arrowDesktopBtnHandler);
+ARROW_DESKTOP_RIGHT.addEventListener('click', arrowDesktopBtnHandler);
