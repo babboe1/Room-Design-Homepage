@@ -126,3 +126,13 @@ const arrowMobileBtnHandler = () => {
 		animateRightTextFunction();
 	};
 };
+const arrowDesktopBtnHandler = () => {
+	
+	ARROW_DESKTOP_LEFT.onclick = () => {
+		animateLeftTextFunction();
+	};
+	ARROW_DESKTOP_RIGHT.onclick = () => {
+		animateRightTextFunction();
+	};
+};
+
