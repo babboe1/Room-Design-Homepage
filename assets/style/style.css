@@ -220,7 +220,7 @@ p {
 .attribution {
 	font-size: 10px;
 	text-align: center;
-   animation: marque 12s linear alternate-reverse infinite;
+	animation: marque 12s linear alternate-reverse infinite;
 }
 .attribution a {
 	color: blue;
@@ -231,10 +231,16 @@ p {
 
 li:hover,
 .ImgLogo:hover,
-.SpanText:hover {
+.ShopNow :nth-child(n):hover,
+.MenuBtn:hover {
 	cursor: pointer;
 }
+
 .NavArrowIcon:hover {
 	cursor: pointer;
 	background-color: #2d2d2d;
+}
+.NavArrowIcon:active {
+	cursor: grabbing;
+	background-color: #381111;
 }
