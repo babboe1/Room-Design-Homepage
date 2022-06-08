@@ -98,5 +98,12 @@ const animateRightTextFunction = () => {
 		} else if (window.innerWidth > 1023) {
 			animateImageFunction(FADE2_IN_DESKTOP);
 		}
+	} else if (TEXT_3.classList.contains('opacity')) {
+		animateOpacityFunction(TEXT_3, TEXT_1, SLIDE1_UP);
+		if (window.innerWidth < 1024) {
+			animateImageFunction(FADE3_OUT);
+		} else if (window.innerWidth > 1023) {
+			animateImageFunction(FADE1_IN_DESKTOP);
+		}
 	} 
 };
