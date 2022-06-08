@@ -95,6 +95,8 @@ const animateRightTextFunction = () => {
 		animateOpacityFunction(TEXT_1, TEXT_2, SLIDE2_UP);
 		if (window.innerWidth < 1024) {
 			animateImageFunction(FADE1_OUT);
+		} else if (window.innerWidth > 1023) {
+			animateImageFunction(FADE2_IN_DESKTOP);
 		}
-	}
+	} 
 };
