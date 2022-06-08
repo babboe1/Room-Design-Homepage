@@ -48,10 +48,9 @@ const magicLine = (value) => {
 const menuBtnHandler = () => {
 	modalDrop();
 	MENU_BTN.firstElementChild.classList.toggle('hidden');
-   MENU_BTN.lastElementChild.classList.toggle('hidden');
-   MENU_MODAL.classList.add('invisible');
-   MENU_MODAL.classList.toggle('visible');
-   
+	MENU_BTN.lastElementChild.classList.toggle('hidden');
+	MENU_MODAL.classList.add('invisible');
+	MENU_MODAL.classList.toggle('visible');
 };
 
 const animateOpacityFunction = (activeText, incomingText, animationName) => {
@@ -111,7 +110,7 @@ const animateRightTextFunction = () => {
 			animateImageFunction(FADE2_OUT);
 		} else if (window.innerWidth > 1023) {
 			animateImageFunction(FADE3_IN_DESKTOP);
-      }
+		}
 	}
 };
 
