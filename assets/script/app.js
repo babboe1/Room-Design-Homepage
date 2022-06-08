@@ -141,3 +141,4 @@ const arrowDesktopBtnHandler = () => {
 BACKDROP.addEventListener('click', backDropHandler);
 MENU_BTN.addEventListener('click', menuBtnHandler);
 ARROW_MOBILE_LEFT.addEventListener('click', arrowMobileBtnHandler);
+ARROW_MOBILE_RIGHT.addEventListener('click', arrowMobileBtnHandler);
