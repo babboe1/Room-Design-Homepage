@@ -188,6 +188,10 @@ section {
 	font-size: 2rem;
 	line-height: 2rem;
 	animation: move 2s ease-in alternate-reverse infinite;
+	background: #121fcf;
+	background: linear-gradient(to right, #121fcf 0%, #cf1512 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
 }
 p {
 	padding: 1.5rem 0;
@@ -208,6 +212,10 @@ p {
 	letter-spacing: 0.25rem;
 	animation: move 2s ease-in alternate-reverse infinite;
 	animation-delay: 2s;
+	background: #121fcf;
+	background: linear-gradient(to right, #121fcf 0%, #cf1512 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
 }
 .attribution {
 	font-size: 10px;
