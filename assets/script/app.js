@@ -127,7 +127,9 @@ const arrowMobileBtnHandler = () => {
 	};
 };
 const arrowDesktopBtnHandler = () => {
-	
+	if (window.innerWidth < 1024) {
+		return;
+	}
 	ARROW_DESKTOP_LEFT.onclick = () => {
 		animateLeftTextFunction();
 	};
