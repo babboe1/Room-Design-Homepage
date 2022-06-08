@@ -116,7 +116,9 @@ const animateRightTextFunction = () => {
 };
 
 const arrowMobileBtnHandler = () => {
-
+	if (window.innerWidth > 1023) {
+		return;
+	}
 	ARROW_MOBILE_LEFT.onclick = () => {
 		animateLeftTextFunction();
 	};
