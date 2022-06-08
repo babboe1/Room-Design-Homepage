@@ -114,3 +114,13 @@ const animateRightTextFunction = () => {
       }
 	}
 };
+
+const arrowMobileBtnHandler = () => {
+
+	ARROW_MOBILE_LEFT.onclick = () => {
+		animateLeftTextFunction();
+	};
+	ARROW_MOBILE_RIGHT.onclick = () => {
+		animateRightTextFunction();
+	};
+};
