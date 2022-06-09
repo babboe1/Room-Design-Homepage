@@ -43,3 +43,4 @@ Below is a preview of the Room Design Homepage <br />
 ### Built with
 
 - Semantic HTML5 markup
+- CSS custom properties
