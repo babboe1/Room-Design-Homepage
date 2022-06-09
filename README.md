@@ -22,7 +22,7 @@ Users should be able to:
 - View the optimal layout for the site
 - See hover states for all interactive elements on the page
 - view animations on the page
-- click to browse 
+- click to browse through carousel
 
 ### Screenshot
 
