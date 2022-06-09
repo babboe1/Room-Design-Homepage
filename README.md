@@ -34,7 +34,7 @@ Below is a preview of the Room Design Homepage <br />
 ### Links
 
 
-- Solution URL: [Challenge Solution Page]()
 - Live Site URL: [Room Design Home Page]()
+- Solution URL: [Challenge Solution Page]()
 
 ## My process
