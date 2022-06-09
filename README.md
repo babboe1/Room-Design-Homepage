@@ -29,7 +29,7 @@ Users should be able to:
 ### Screenshot
 
 Below is a preview of the Room Design Homepage <br />
-![screenshot](./assets/image/Preview.jpg?raw=true "Preview Image")
+![screenshot](./assets/images/desktop/desktop-preview.jpg?raw=true "Preview Image")
 
 ### Links
 
