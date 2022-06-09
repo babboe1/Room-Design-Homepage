@@ -23,7 +23,7 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - view animations on the page
 - click arrow button to browse through carousel
-- click to browse through information text
+- click arrow button to browse through information text
 
 
 ### Screenshot
