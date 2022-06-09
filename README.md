@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-Below is a preview of the Room Design Homepage challenge by Frontend Mentor <br />
+Below is a preview of the Room Design Homepage <br />
 ![screenshot](./assets/image/Preview.jpg?raw=true "Preview Image")
 
 ### Links
