@@ -51,4 +51,4 @@ Below is a preview of the Room Design Homepage <br />
 
 ### Continued development
 
- In the future and coming project, i hope to have fully grasp writing animations keyframe better for my css properties and also hope to have grasped usage of Js libraries such as React.js and Css preprocessor such as SASS in writing better codes (performance 
+ In the future and coming project, i hope to have fully grasp writing animations keyframe better for my css properties and also hope to have grasped usage of Js libraries such as React.js and Css preprocessor such as SASS in writing better codes (performance wise) and improve my efficiency.
