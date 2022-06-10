@@ -57,3 +57,4 @@ Below is a preview of the Room Design Homepage <br />
 
 - Frontend Mentor - [@babboe1](https://www.frontendmentor.io/profile/babboe1)
 - Twitter - [@ausstinab](https://www.twitter.com/ausstinab)
+- LinkedIn - [Ayodele Abiola](https://www.linkedin.com/in/abiola-ayodele-5a10651b7/)
