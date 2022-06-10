@@ -46,3 +46,4 @@ Below is a preview of the Room Design Homepage <br />
 - CSS custom properties
 - Flexbox
 - CSS
+- Mobile-first workflow
