@@ -48,3 +48,5 @@ Below is a preview of the Room Design Homepage <br />
 - CSS
 - Mobile-first workflow
 - JavaScript ES6
+
+### Continued development
