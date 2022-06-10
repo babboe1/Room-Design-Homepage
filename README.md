@@ -47,3 +47,4 @@ Below is a preview of the Room Design Homepage <br />
 - Flexbox
 - CSS
 - Mobile-first workflow
+- JavaScript ES6
