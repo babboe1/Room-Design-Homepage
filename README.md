@@ -45,7 +45,6 @@ Below is a preview of the Room Design Homepage <br />
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS
 - Mobile-first workflow
 - JavaScript ES6
 
