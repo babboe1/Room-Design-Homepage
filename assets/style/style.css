@@ -220,7 +220,7 @@ p {
 .attribution {
 	font-size: 10px;
 	text-align: center;
-	animation: marque 12s linear alternate-reverse infinite;
+	/*animation: marque 12s linear alternate-reverse infinite;*/
 }
 .attribution a {
 	color: blue;
